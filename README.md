@@ -16,7 +16,7 @@ Các chương trình sinh học bậc trung học phổ thông tại Việt Nam 
 
 Có ba rào cản cụ thể ngăn cản học sinh, sinh viên tận dụng các nguồn tài nguyên hiện có:
 
-1. **Ngôn ngữ**: Các thông tin chính thông này và nhiều nguồn nổi tiếng khác đòi hỏi trình độ đọc hiểu tiếng Anh nâng cao và kiến ​​thức về thuật ngữ chuyên ngành hóa sinh. 
+1. **Ngôn ngữ**: Các thông tin chính thông này và nhiều nguồn nổi tiếng khác đòi hỏi trình độ đọc hiểu tiếng Anh nâng cao và kiến ​​thức về thuật ngữ chuyên ngành hóa sinh. Đơn cử như [PubMed Central (PMC)](https://www.annualreviews.org/content/journals/biochem) là nơi tổng hợp các bài viết mang tính hệ thống của các chuyên gia đầu ngành, rất thích hợp để cập nhật kiến thức tổng quan nâng cao nhưng không có bản dịch chính thức và các từ ngữ trong các báo cáo rất nặng tính hàn lâm của ngôn ngữ.
 2. **Giao diện phức tạp**: việc xem các cấu trúc AlphaFold thường đòi hỏi phải tải xuống tệp tin và sử dụng các phần mềm như PyMOL hoặc ChimeraX, điều này không khả thi trong môi trường lớp học.
 3. **Thiếu định hướng sư phạm**: Những thông tin hiện có chỉ cung cấp dữ liệu cấu trúc thô, thay vì những giải thích mang tính hướng dẫn về lý do tại sao một đột biến lại quan trọng.
 ## Solution
