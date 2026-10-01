@@ -152,12 +152,5 @@ Thành viên:
 > - Võ Minh Quân: Full-stack implementation, backend and core Tech Lead
 > - Hoàng Gia Kiệt: Full-stack implementation alongside "Võ Minh Quân", in charge of algorithm and Data 
 
-
-
-
-
-
-
-
-
 ## License
+- not yet.:<
