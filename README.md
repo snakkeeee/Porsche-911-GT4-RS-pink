@@ -12,7 +12,7 @@ Built for Geforce rtx 5090
 
 ## Problem
 
-Các chương trình sinh học bậc trung học phổ thông tại Việt Nam hầu như chỉ dựa vào các sơ đồ 2D tĩnh để giảng dạy về cấu trúc protein và đột biến gen, qua đó hạn chế khả năng hình dung của học sinh về những thay đổi cấu hình do đột biến gây ra. Các nguồn tài nguyên 3D chi tiết nhất hiện có [AlphaFold DataBase]((https://alphafold.ebi.ac.uk)), các tài liệu tham khảo quốc tế như [*Campbell Biology*](https://www.pearson.com/en-us/subject-catalog/p/campbell-biology/P200000014184/9780135455890) are written entirely in English with dense technical terminology, putting them out of reach for most Vietnamese secondary students.
+Các chương trình sinh học bậc trung học phổ thông tại Việt Nam hầu như chỉ dựa vào các sơ đồ 2D tĩnh để giảng dạy về cấu trúc protein và đột biến gen, qua đó hạn chế khả năng hình dung của học sinh về những thay đổi cấu hình do đột biến gây ra. Các nguồn tài nguyên 3D chi tiết nhất hiện có [AlphaFold DataBase](https://alphafold.ebi.ac.uk), các tài liệu tham khảo quốc tế như [*Campbell Biology*](https://www.pearson.com/en-us/subject-catalog/p/campbell-biology/P200000014184/9780135455890) are written entirely in English with dense technical terminology, putting them out of reach for most Vietnamese secondary students.
 
 Có ba rào cản cụ thể ngăn cản học sinh, sinh viên tận dụng các nguồn tài nguyên hiện có:
 
