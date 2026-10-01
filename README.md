@@ -1,2 +1,3 @@
-# Porsche-911-GT4-RS-pink
-AI powered science assistant for students
+#Geforce rtx 5090 
+
+## ABSTRACTION
