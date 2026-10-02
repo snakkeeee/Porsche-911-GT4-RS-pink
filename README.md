@@ -150,7 +150,7 @@ Thành viên:
 > - Hồ An Khang: dataset curator,project founder and moderator
 > - Cái Trí Viễn: Presenting ideas, developing the story and formulating the strategy.
 > - Võ Minh Quân: Full-stack implementation, backend and core Tech Lead
-> - Hoàng Gia Kiệt: Full-stack implementation alongside "Võ Minh Quân", in charge of algorithm and Data 
+> - Nguyễn Hoàng Gia Kiệt: Full-stack implementation alongside "Võ Minh Quân", in charge of algorithm and Data 
 
 ## License
 - not yet.:<
