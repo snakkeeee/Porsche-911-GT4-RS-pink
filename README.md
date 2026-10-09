@@ -140,7 +140,6 @@ LLM_API_URL=https://api.your-provider.com/v1/messages
 - Bổ sung tính năng đánh giá mức độ hiểu bài ngay trên nền tảng dành cho giáo viên.
 - Nghiên cứu khả năng hỗ trợ đa ngôn ngữ bên cạnh tiếng Việt.
 
-Vui lòng tham khảo tệp `docs/paper.pdf` để xem toàn văn báo cáo nghiên cứu.
 ---
 
 ## Team
